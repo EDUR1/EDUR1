@@ -2,7 +2,7 @@
 
 ![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUR1&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uestee&show_icons=true&theme=transparent)
 
 ### Tecnologias
 
